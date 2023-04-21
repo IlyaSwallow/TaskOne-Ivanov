@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-sdfsdfsfsd
-=======
-sdfsdfsdsd
->>>>>>> master
